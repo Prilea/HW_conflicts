@@ -1,1 +1,1 @@
-text for master
+text from branch_with_conflicts !
